@@ -1,4 +1,4 @@
-# Masato Umeno
+# Masato
 
 Software Engineer based in Melbourne, Australia.
 
