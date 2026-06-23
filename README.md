@@ -9,10 +9,8 @@ I have 6+ years of experience developing enterprise systems across logistics, ma
 ### Backend
 - C#
 - .NET
-- ASP.NET Core
 - Java
 - Python
-- VB.NET
 
 ### Frontend
 - Vue.js
